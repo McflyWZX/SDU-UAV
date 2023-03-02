@@ -37,36 +37,49 @@
 ### 选购推荐
 这里首先推荐一些店铺
 新动模型，这家店东西还算多，重点是发货地是山东潍坊，物流时间比较短，对咱们山大比较友好：
+
 [首页-新动模型-淘宝网 (taobao.com)](https://newmo.taobao.com/index.htm?spm=a1z10.3-c-s.w5002-14528659877.2.776b829czmo0Vy)
+
 下面几家店虽然距离远，但是发货还算快，开发票也还算方便：
 [首页-牛牌航空工厂店-淘宝网 (taobao.com)](https://shop187575144.taobao.com/?spm=a230r.7195193.1997079397.30.7160277ckuz7PS)
+
 [驯龙者模型配件批发 (taobao.com)](https://shop112804780.taobao.com/?spm=a230r.7195193.1997079397.62.7160277ckuz7PS#/)
+
 [首页-银燕EMAX品牌店-淘宝网 (taobao.com)](https://shop130706982.taobao.com/?spm=a230r.7195193.1997079397.2.4768421dq5JzrY)
 
 另外避坑XXD（新西达）产品，他家电机电调虽然便宜，但是容易烧，玩玩可以，正经用不行。
 #### 电机
 推荐朗宇、银燕和T-Motor
+
 [TMOTOR电机5寸穿越机电机F60Pro4破风无人机电机马达fpv无刷电机-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-14528659934.18.7b9c1da8lQqPAF&id=682047864464)
+
 [热销遥控航模飞机配件银燕多旋翼MT2208 II KV1500 2000无刷电机-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a230r.1.14.28.3bca4705M7sHQg&id=522211177920&ns=1&abbucket=5#detail)
+
 [热卖银燕Emax FPV航模遥控多旋翼MT2206 II KV1900 1500无刷电机-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-22550464504.16.7a256df6z0JkVt&id=522211990287)
 #### 电调
 [好盈电调天行者无刷电调12AE 15A20A30A40A50A60A80A航模固定翼-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-14528659934.29.2c4b355aeQwSMi&id=14222029428)
 #### 电池
 [格式格氏电池2S3S4S6S锂电池3S11.1V2200航模固定翼12V高倍率动力-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-14528659934.12.62f124416f8DR9&id=13638845340)
+
 建议3-4S，2300mah-4000mah
 #### 飞控
 飞控建议运行PX4固件的飞控，有完善的地面站调参和通信协议，业界通用。
+
 [四轴多轴Pixhawk2.4.8 PX4 PIX32位APM飞控 自动定点巡航PIX2.4.6-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a230r.1.14.33.5622466cEC1K3y&id=540349126200&ns=1&abbucket=5#detail)
 #### 机架
 [ZMR F450 V2 四轴机架 哪吒 四旋翼多轴集成沉金板PCB板耐炸 航拍-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14528659884.13.2ce0829cHLekOr&id=18132207528)
+
 [四轴 F330机架 航拍无人机竞赛专用 集成沉金板PCB航模穿越机机架-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-14528659884.11.2ce0829cHLekOr&id=15556902806)
+
 [2015新款FPV穿越四轴250机架 图腾Q250 超轻高强度机架 非QAV250-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a230r.1.14.24.37f42f35cDLLJ2&id=520738516076&ns=1&abbucket=5#detail)
 #### 遥控器和接收机
 遥控这里就不作推荐了，买实验室同款也行。也可以买RadioLink AT9S Pro比较贵但手感较好。
 #### 上层控制器
 单片机之类的话大家自己选吧，像stm32，T4MC，甚至是esp32都可以。
 单板机的话现在不推荐树莓派了，性价比太低。可以看看RK3588S系列的板子，性能强劲：
+
 [香橙派OrangePi 5开发板瑞芯微RK3588S主板4G/8G/16G内存可选NPU-tmall.com天猫](https://detail.tmall.com/item.htm?abbucket=5&id=694256947515&ns=1&spm=a230r.1.14.3.d92e1b39d525RA)
+
 [CoolPi 4B瑞芯微RK3588S核心开发板AI智能树莓派接口8核6TNPU-淘宝网 (taobao.com)](https://item.taobao.com/item.htm?spm=a230r.1.14.3.42426e4eYXagPq&id=685046198291&ns=1&abbucket=5#detail)
 #### 其它传感器
 一般肯定要准备光流和激光定高，找PX4支持的光流和定高模块。
